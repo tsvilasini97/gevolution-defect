@@ -1,2 +1,2 @@
-# defect_gevolution
+# gevolution-defect
 N-body simulations of topological defects.
